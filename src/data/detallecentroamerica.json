@@ -1,0 +1,54 @@
+{
+  "titulo": "Central America",
+  "numero_paises": 8,
+  "detalle": [
+    {
+      "nombre": "Belize",
+      "nativo": "Belize",
+      "capital": "Belmopan",
+      "poplacion": 370300
+    },
+    {
+      "nombre": "Costa Rica",
+      "nativo": "Costa Rica",
+      "capital": "San José",
+      "poplacion": 4890379
+    },
+    {
+      "nombre": "El Salvador",
+      "nativo": "El Salvador",
+      "capital": "San Salvador",
+      "poplacion": 6520675
+    },
+    {
+      "nombre": "Guatemala",
+      "nativo": "Guatemala",
+      "capital": "Guatemala City",
+      "poplacion": 16176133
+    },
+    {
+      "nombre": "Honduras",
+      "nativo": "Honduras",
+      "capital": "Tegucigalpa",
+      "poplacion": 8576532
+    },
+    {
+      "nombre": "Mexico",
+      "nativo": "México",
+      "capital": "Mexico City",
+      "poplacion": 122273473
+    },
+    {
+      "nombre": "Nicaragua",
+      "nativo": "Nicaragua",
+      "capital": "Managua",
+      "poplacion": 6262703
+    },
+    {
+      "nombre": "Panama",
+      "nativo": "Panamá",
+      "capital": "Panama City",
+      "poplacion": 3814672
+    }
+  ]
+}

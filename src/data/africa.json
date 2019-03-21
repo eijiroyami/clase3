@@ -1,0 +1,362 @@
+[
+  {
+    "nombre": "Algeria",
+    "poplacion": 40400000,
+    "capital": "Algiers",
+    "nativo": "الجزائر"
+  },
+  {
+    "nombre": "Angola",
+    "poplacion": 25868000,
+    "capital": "Luanda",
+    "nativo": "Angola"
+  },
+  {
+    "nombre": "Benin",
+    "poplacion": 10653654,
+    "capital": "Porto-Novo",
+    "nativo": "Bénin"
+  },
+  {
+    "nombre": "Botswana",
+    "poplacion": 2141206,
+    "capital": "Gaborone",
+    "nativo": "Botswana"
+  },
+  {
+    "nombre": "British Indian Ocean Territory",
+    "poplacion": 3000,
+    "capital": "Diego Garcia",
+    "nativo": "British Indian Ocean Territory"
+  },
+  {
+    "nombre": "Burkina Faso",
+    "poplacion": 19034397,
+    "capital": "Ouagadougou",
+    "nativo": "Burkina Faso"
+  },
+  {
+    "nombre": "Burundi",
+    "poplacion": 10114505,
+    "capital": "Bujumbura",
+    "nativo": "Burundi"
+  },
+  {
+    "nombre": "Cameroon",
+    "poplacion": 22709892,
+    "capital": "Yaoundé",
+    "nativo": "Cameroon"
+  },
+  {
+    "nombre": "Cabo Verde",
+    "poplacion": 531239,
+    "capital": "Praia",
+    "nativo": "Cabo Verde"
+  },
+  {
+    "nombre": "Central African Republic",
+    "poplacion": 4998000,
+    "capital": "Bangui",
+    "nativo": "Ködörösêse tî Bêafrîka"
+  },
+  {
+    "nombre": "Chad",
+    "poplacion": 14497000,
+    "capital": "N'Djamena",
+    "nativo": "Tchad"
+  },
+  {
+    "nombre": "Comoros",
+    "poplacion": 806153,
+    "capital": "Moroni",
+    "nativo": "Komori"
+  },
+  {
+    "nombre": "Congo",
+    "poplacion": 4741000,
+    "capital": "Brazzaville",
+    "nativo": "République du Congo"
+  },
+  {
+    "nombre": "Congo (Democratic Republic of the)",
+    "poplacion": 85026000,
+    "capital": "Kinshasa",
+    "nativo": "République démocratique du Congo"
+  },
+  {
+    "nombre": "Djibouti",
+    "poplacion": 900000,
+    "capital": "Djibouti",
+    "nativo": "Djibouti"
+  },
+  {
+    "nombre": "Egypt",
+    "poplacion": 91290000,
+    "capital": "Cairo",
+    "nativo": "مصر‎"
+  },
+  {
+    "nombre": "Equatorial Guinea",
+    "poplacion": 1222442,
+    "capital": "Malabo",
+    "nativo": "Guinea Ecuatorial"
+  },
+  {
+    "nombre": "Eritrea",
+    "poplacion": 5352000,
+    "capital": "Asmara",
+    "nativo": "ኤርትራ"
+  },
+  {
+    "nombre": "Ethiopia",
+    "poplacion": 92206005,
+    "capital": "Addis Ababa",
+    "nativo": "ኢትዮጵያ"
+  },
+  {
+    "nombre": "French Southern Territories",
+    "poplacion": 140,
+    "capital": "Port-aux-Français",
+    "nativo": "Territoire des Terres australes et antarctiques françaises"
+  },
+  {
+    "nombre": "Gabon",
+    "poplacion": 1802278,
+    "capital": "Libreville",
+    "nativo": "Gabon"
+  },
+  {
+    "nombre": "Gambia",
+    "poplacion": 1882450,
+    "capital": "Banjul",
+    "nativo": "Gambia"
+  },
+  {
+    "nombre": "Ghana",
+    "poplacion": 27670174,
+    "capital": "Accra",
+    "nativo": "Ghana"
+  },
+  {
+    "nombre": "Guinea",
+    "poplacion": 12947000,
+    "capital": "Conakry",
+    "nativo": "Guinée"
+  },
+  {
+    "nombre": "Guinea-Bissau",
+    "poplacion": 1547777,
+    "capital": "Bissau",
+    "nativo": "Guiné-Bissau"
+  },
+  {
+    "nombre": "Côte d'Ivoire",
+    "poplacion": 22671331,
+    "capital": "Yamoussoukro",
+    "nativo": "Côte d'Ivoire"
+  },
+  {
+    "nombre": "Kenya",
+    "poplacion": 47251000,
+    "capital": "Nairobi",
+    "nativo": "Kenya"
+  },
+  {
+    "nombre": "Lesotho",
+    "poplacion": 1894194,
+    "capital": "Maseru",
+    "nativo": "Lesotho"
+  },
+  {
+    "nombre": "Liberia",
+    "poplacion": 4615000,
+    "capital": "Monrovia",
+    "nativo": "Liberia"
+  },
+  {
+    "nombre": "Libya",
+    "poplacion": 6385000,
+    "capital": "Tripoli",
+    "nativo": "‏ليبيا"
+  },
+  {
+    "nombre": "Madagascar",
+    "poplacion": 22434363,
+    "capital": "Antananarivo",
+    "nativo": "Madagasikara"
+  },
+  {
+    "nombre": "Malawi",
+    "poplacion": 16832910,
+    "capital": "Lilongwe",
+    "nativo": "Malawi"
+  },
+  {
+    "nombre": "Mali",
+    "poplacion": 18135000,
+    "capital": "Bamako",
+    "nativo": "Mali"
+  },
+  {
+    "nombre": "Mauritania",
+    "poplacion": 3718678,
+    "capital": "Nouakchott",
+    "nativo": "موريتانيا"
+  },
+  {
+    "nombre": "Mauritius",
+    "poplacion": 1262879,
+    "capital": "Port Louis",
+    "nativo": "Maurice"
+  },
+  {
+    "nombre": "Mayotte",
+    "poplacion": 226915,
+    "capital": "Mamoudzou",
+    "nativo": "Mayotte"
+  },
+  {
+    "nombre": "Morocco",
+    "poplacion": 33337529,
+    "capital": "Rabat",
+    "nativo": "المغرب"
+  },
+  {
+    "nombre": "Mozambique",
+    "poplacion": 26423700,
+    "capital": "Maputo",
+    "nativo": "Moçambique"
+  },
+  {
+    "nombre": "Namibia",
+    "poplacion": 2324388,
+    "capital": "Windhoek",
+    "nativo": "Namibia"
+  },
+  {
+    "nombre": "Niger",
+    "poplacion": 20715000,
+    "capital": "Niamey",
+    "nativo": "Niger"
+  },
+  {
+    "nombre": "Nigeria",
+    "poplacion": 186988000,
+    "capital": "Abuja",
+    "nativo": "Nigeria"
+  },
+  {
+    "nombre": "Réunion",
+    "poplacion": 840974,
+    "capital": "Saint-Denis",
+    "nativo": "La Réunion"
+  },
+  {
+    "nombre": "Rwanda",
+    "poplacion": 11553188,
+    "capital": "Kigali",
+    "nativo": "Rwanda"
+  },
+  {
+    "nombre": "Saint Helena, Ascension and Tristan da Cunha",
+    "poplacion": 4255,
+    "capital": "Jamestown",
+    "nativo": "Saint Helena"
+  },
+  {
+    "nombre": "Sao Tome and Principe",
+    "poplacion": 187356,
+    "capital": "São Tomé",
+    "nativo": "São Tomé e Príncipe"
+  },
+  {
+    "nombre": "Senegal",
+    "poplacion": 14799859,
+    "capital": "Dakar",
+    "nativo": "Sénégal"
+  },
+  {
+    "nombre": "Seychelles",
+    "poplacion": 91400,
+    "capital": "Victoria",
+    "nativo": "Seychelles"
+  },
+  {
+    "nombre": "Sierra Leone",
+    "poplacion": 7075641,
+    "capital": "Freetown",
+    "nativo": "Sierra Leone"
+  },
+  {
+    "nombre": "Somalia",
+    "poplacion": 11079000,
+    "capital": "Mogadishu",
+    "nativo": "Soomaaliya"
+  },
+  {
+    "nombre": "South Africa",
+    "poplacion": 55653654,
+    "capital": "Pretoria",
+    "nativo": "South Africa"
+  },
+  {
+    "nombre": "South Sudan",
+    "poplacion": 12131000,
+    "capital": "Juba",
+    "nativo": "South Sudan"
+  },
+  {
+    "nombre": "Sudan",
+    "poplacion": 39598700,
+    "capital": "Khartoum",
+    "nativo": "السودان"
+  },
+  {
+    "nombre": "Swaziland",
+    "poplacion": 1132657,
+    "capital": "Lobamba",
+    "nativo": "Swaziland"
+  },
+  {
+    "nombre": "Tanzania, United Republic of",
+    "poplacion": 55155000,
+    "capital": "Dodoma",
+    "nativo": "Tanzania"
+  },
+  {
+    "nombre": "Togo",
+    "poplacion": 7143000,
+    "capital": "Lomé",
+    "nativo": "Togo"
+  },
+  {
+    "nombre": "Tunisia",
+    "poplacion": 11154400,
+    "capital": "Tunis",
+    "nativo": "تونس"
+  },
+  {
+    "nombre": "Uganda",
+    "poplacion": 33860700,
+    "capital": "Kampala",
+    "nativo": "Uganda"
+  },
+  {
+    "nombre": "Western Sahara",
+    "poplacion": 510713,
+    "capital": "El Aaiún",
+    "nativo": "الصحراء الغربية"
+  },
+  {
+    "nombre": "Zambia",
+    "poplacion": 15933883,
+    "capital": "Lusaka",
+    "nativo": "Zambia"
+  },
+  {
+    "nombre": "Zimbabwe",
+    "poplacion": 14240168,
+    "capital": "Harare",
+    "nativo": "Zimbabwe"
+  }
+]
